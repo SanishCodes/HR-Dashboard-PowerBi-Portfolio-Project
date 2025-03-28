@@ -42,5 +42,5 @@ The dataset underwent **cleaning and transformation** to enhance visualization a
 ## ⭐ Connect & Feedback  
 Have suggestions or feedback? Feel free to **fork**, **star**, and **contribute** to this project!  
 
-🔗 **GitHub Repository**: [GitHub Link](your-github-repo-link)  
-📩 **Contact Me**: [Your Email]  
+🔗 **GitHub Repository**: [[GitHub Link](https://github.com/SanishCodes/HR-Dashboard-PowerBi-Portfolio-Project.git)  ]
+📩 **Contact Me**: [office.sanish@gmail.com] 
